@@ -38,3 +38,43 @@ Store all facts in a dictionary.
 Style all responses.
 5)
 Attempt image recognition.
+
+
+Now im going to gather images to teach the teachable machine!
+Classes:
+Battery – small and large
+Plastic – bottles and containers
+Paper/Cardboard – sheets and boxes
+Glass – bottles and jars
+Food waste – fruit and vegetables and leftovers
+
+Getting Images:
+I decided for each class ill get 8-15 images.
+I also thought that diffrent angles and background and lighting will give me good benefits because the teachable machine
+will then be able to tell me any picture and what it is. but i will avoid blury images because there not clear.
+
+How im going to organize my images:
+I will create a folder called "recycling_images" in here i will keep all the classes and in those classes will be the actual images of the class
+
+Prepare for Teachable Machine:
+I will also make sure that all images have the correct name and not be mixed up because if it is it could cause some chaos.
+I will keep images the same size and avoid makeing one bgger and one smaller.
+I will try get atleast 8 or more images.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
