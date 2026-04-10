@@ -61,6 +61,11 @@ I will also make sure that all images have the correct name and not be mixed up 
 I will keep images the same size and avoid makeing one bgger and one smaller.
 I will try get atleast 8 or more images.
 
+In this image below you can see that i've got all my images and i trained my model and now im going to export my model in tensorflow keras.
+i will name the image that shows what i've done 'How to export a model'.
+
+
+
 
 
 
