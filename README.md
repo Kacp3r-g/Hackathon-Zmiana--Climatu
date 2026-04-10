@@ -64,6 +64,8 @@ I will try get atleast 8 or more images.
 In this image below you can see that i've got all my images and i trained my model and now im going to export my model in tensorflow keras.
 i will name the image that shows what i've done 'How to export a model'.
 
+After the project is exported you need to put the exported file in your project VSC folder.
+I'll also include a images of how i do it, the file name is 'dragging-exported-file'.
 
 
 
