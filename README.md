@@ -66,7 +66,7 @@ i will name the image that shows what i've done 'How to export a model'.
 
 After the project is exported you need to put the exported file in your project VSC folder.
 I'll also include a images of how i do it, the file name is 'dragging-exported-file'.
-
+I forgot to say this but you also need to export the exported file after its exported you drag whats inside that file into your projects folder.
 
 
 
