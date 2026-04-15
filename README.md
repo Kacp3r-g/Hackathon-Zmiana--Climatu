@@ -22,8 +22,7 @@ Bot responses:
 Batteries should be always thrown into the battery recycling points or recycling centres these are usually found in big shops/malls example Aldi/Lidl/tesco.
 Do not throw them in normal bins.
 
-iwill also include some extra commands like:
-/tip tells you a random recycling tip
+i will also include some extra commands like:
 /help lists all commands
 /fact tells you a fun climate/recycling fact
 
