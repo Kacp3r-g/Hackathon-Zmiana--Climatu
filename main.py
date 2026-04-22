@@ -20,7 +20,7 @@ async def on_ready():
 @bot.tree.command(name="hello", description="Says hello")
 async def hello(interaction: discord.Interaction):
     await interaction.response.send_message(
-        "Hello! I'm here to help you with recycling. Ask me anything!"
+        "Hello I'm here to help you with recycling. Ask me anything!"
     )
 
 @bot.tree.command(name="battery", description="how to dispose of batteries")
