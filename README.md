@@ -1,3 +1,5 @@
+# MY PLAN
+
 I think my first idea will be in teachable machine i will first start with an image project,
 so firstly a user sends an image to an AI and the AI identifies the waste item then AI tells
 the bot how to dispose of it properly.
